@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": " Limon Shah",
+    "occupation": "<student>",
+    "description": "I eat, sleep and breathe ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Md. limon Shah! You might also know me as Limon. I am a student of department of software Engineering At Daffodil Internationa University. I am a hardworking and ambitious individual with a great passion ",
+    "contactmessage": "Get in touch with me ",
+    "email": "imlimonpro@gmail.com",
+    "phone": "+8801758904126",
+    "address": {
+      "street": "shukrabad",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": "1209"
+    },
+    "website": "https://sites.google.com/view/limonsite/home",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCXuHWmJg2mV-aZdV6TKoZug",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/Limon.abc1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/md-limon-shah-797637159/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_m_limon/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/limonPRO",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Daffodil International University",
+        "degree": "B.sc in Software Engineering",
+        "graduated": "not completed",
+        "description": "not completed"
+      }
+    ],
+    "work": [
+      {
+        "company": "Limon",
+        "title": "student",
+        "years": "",
+        "description": "Cloning all the apps possible. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "58%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "django",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      },
+      {
+        "name": "machine Learning",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "imessage Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Limon is absolutely excellent, he is loyal to his work , he is briliant ",
+        "user": "Mustafizur Rahman(private teacher)"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}

@@ -2,6 +2,7 @@ import React from "react";
 import TypeWriter from "react-typewriter";
 
 
+
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
@@ -70,8 +71,9 @@ const Header = ({ data }) => {
             
             {/* <p>{name ? `I'm ${name}.` : null}</p> */}
           </h1>
-          <h3>
+          <h3 >
             Based in {city}. <span>{occupation}</span>. {description}.
+            
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
